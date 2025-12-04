@@ -1,2 +1,13 @@
-.vscode
-venv
+/.venv
+/venv
+/.vscode
+/__pycache__
+/Testfiles
+/Scripts
+/output
+/dist
+/build
+
+pyinstaller.txt
+UgyfelKezeloProgram.spec
+.gitignore

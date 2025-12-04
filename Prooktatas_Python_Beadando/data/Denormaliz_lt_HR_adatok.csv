@@ -1,0 +1,101 @@
+first_name,last_name,department,job,location,hire_date,monthly_salary,absence_days
+Julianna,Szabó,Pénzügy,Marketinges,Debrecen,2022-06-20,793555,3
+Mária,Szabó,Marketing,HR generalista,Budapest,2020-08-26,661120,10
+János,Molnár,Informatika,Ügyfélszolgálatos,Szeged,2022-07-29,918532,0
+István,Varga,Pénzügy,Szoftverfejlesztő,Budapest,2021-05-02,849948,3
+Anna,Horváth,Ügyfélszolgálat,HR generalista,Budapest,2023-12-24,882496,2
+Erzsébet,Molnár,HR,Szoftverfejlesztő,Szeged,2020-04-21,421262,10
+János,Virág,Marketing,Szoftverfejlesztő,Szeged,2021-06-28,608175,0
+Erzsébet,Hegedűs,Ügyfélszolgálat,Szoftverfejlesztő,Debrecen,2025-03-05,942683,3
+Erzsébet,Molnár,Pénzügy,Könyvelő,Budapest,2020-07-29,679445,10
+György,Hajdu,Pénzügy,Marketinges,Budapest,2020-07-23,664569,7
+Enikő,Szabó,Pénzügy,Szoftverfejlesztő,Budapest,2022-05-06,830547,2
+Margit,Varga,Informatika,Ügyfélszolgálatos,Budapest,2024-12-25,880458,12
+Beáta,Molnár,HR,Könyvelő,Budapest,2021-07-15,606150,0
+Orsolya,Szabó,Pénzügy,HR generalista,Debrecen,2021-08-08,919605,12
+Zsanett,Somogyi,Ügyfélszolgálat,Rendszergazda,Szeged,2023-09-23,358203,3
+László,Gulyás,Pénzügy,Rendszergazda,Budapest,2023-01-18,490814,12
+Szilvia,Molnár,Informatika,Szoftverfejlesztő,Szeged,2022-05-02,930097,5
+András,Boros,Pénzügy,Könyvelő,Szeged,2021-02-20,570861,0
+Norbert,Nagy,HR,Rendszergazda,Szeged,2024-03-23,626807,3
+Tamás,Orosz,Marketing,Könyvelő,Budapest,2024-02-20,446781,0
+Dávid,Fülöp,Pénzügy,Szoftverfejlesztő,Budapest,2022-02-27,699759,5
+Tamás,Gál,Pénzügy,HR generalista,Szeged,2023-08-11,813298,3
+Mihály,Vass,Marketing,Ügyfélszolgálatos,Budapest,2022-08-06,467308,2
+Dávid,Balogh,HR,Ügyfélszolgálatos,Budapest,2024-10-12,737151,3
+Mihály,Nagy,HR,Marketinges,Budapest,2022-06-11,393860,12
+Ferenc,Nemes,Pénzügy,Szoftverfejlesztő,Debrecen,2022-06-24,570281,10
+István,Simon,Informatika,Könyvelő,Szeged,2023-03-01,776117,5
+Erika,Horváth,HR,HR generalista,Budapest,2024-07-27,782322,0
+Zoltán,Hajdu,HR,Rendszergazda,Debrecen,2021-11-02,781712,10
+Tibor,Szalai,Pénzügy,HR generalista,Szeged,2020-03-27,463346,0
+Mária,Antal,Informatika,Marketinges,Budapest,2021-11-24,559267,7
+Béla,Nagy,Pénzügy,Könyvelő,Budapest,2023-01-11,583752,0
+Ilona,Gál,HR,Marketinges,Debrecen,2021-04-13,642136,2
+Julianna,Horváth,Pénzügy,Könyvelő,Szeged,2022-11-07,884150,0
+Margit,Varga,Ügyfélszolgálat,Könyvelő,Budapest,2022-09-26,470944,12
+Erzsébet,Tóth,HR,Ügyfélszolgálatos,Debrecen,2023-06-12,390115,2
+Judit,Halász,Ügyfélszolgálat,Marketinges,Debrecen,2025-01-23,678914,0
+Lajos,Juhász,Ügyfélszolgálat,Ügyfélszolgálatos,Budapest,2020-03-23,753906,10
+György,Szabó,Pénzügy,Szoftverfejlesztő,Szeged,2025-02-25,807239,0
+Éva,Varga,Ügyfélszolgálat,Ügyfélszolgálatos,Szeged,2023-12-24,556606,0
+Márton,Szabó,Marketing,Szoftverfejlesztő,Szeged,2024-03-31,696239,0
+Viktória,Nemes,Informatika,Rendszergazda,Debrecen,2021-08-31,881756,12
+Margit,Horváth,Marketing,Könyvelő,Debrecen,2023-01-27,660016,3
+János,Novák,HR,HR generalista,Debrecen,2022-03-21,747562,5
+Judit,Szabó,Ügyfélszolgálat,Ügyfélszolgálatos,Debrecen,2021-11-30,775800,3
+Sándor,Nagy,Informatika,Könyvelő,Debrecen,2024-04-06,570392,0
+Ilona,Bogdán,Ügyfélszolgálat,Ügyfélszolgálatos,Szeged,2024-02-04,687902,7
+Bálint,Szilágyi,Marketing,Marketinges,Szeged,2021-11-16,574082,3
+Julianna,Kiss,Marketing,Rendszergazda,Budapest,2023-08-15,438914,12
+Zsolt,Balázs,Ügyfélszolgálat,Rendszergazda,Szeged,2020-04-08,701470,2
+Renáta,Illés,HR,Rendszergazda,Debrecen,2021-02-16,585552,10
+Gabriella,Szabó,HR,Szoftverfejlesztő,Budapest,2024-08-17,606736,7
+Áron,Lakatos,Ügyfélszolgálat,Szoftverfejlesztő,Debrecen,2021-04-03,784572,10
+Barnabás,Váradi,Marketing,Marketinges,Debrecen,2024-09-27,605836,5
+Diána,Simon,Informatika,Szoftverfejlesztő,Debrecen,2023-12-27,579471,5
+Ilona,Sipos,Ügyfélszolgálat,Marketinges,Budapest,2024-07-07,934482,10
+Antal,Jónás,Informatika,Marketinges,Budapest,2024-01-06,837213,3
+Barbara,Biró,Ügyfélszolgálat,Ügyfélszolgálatos,Debrecen,2024-04-04,814071,3
+Dominik,László,Marketing,Ügyfélszolgálatos,Debrecen,2022-07-31,516889,7
+Magdolna,Papp,Marketing,Könyvelő,Budapest,2022-04-04,640782,3
+Csaba,Kovács,Marketing,Rendszergazda,Budapest,2022-08-26,637936,7
+Tamás,Varga,Informatika,Rendszergazda,Debrecen,2024-10-25,595884,12
+József,Tóth,Pénzügy,Könyvelő,Szeged,2023-06-25,434491,5
+Andrea,Fodor,HR,HR generalista,Debrecen,2020-10-07,510227,10
+Bálint,Varga,Informatika,Marketinges,Debrecen,2024-03-08,696954,3
+Levente,Szabó,Marketing,Marketinges,Budapest,2023-10-18,566881,0
+Bence,Bogdán,Marketing,Ügyfélszolgálatos,Szeged,2020-05-21,370480,0
+Gizella,Jakab,Marketing,Szoftverfejlesztő,Debrecen,2023-06-16,663118,0
+Erik,Hegedüs,Marketing,Ügyfélszolgálatos,Szeged,2022-10-05,922661,10
+Eszter,Bálint,Marketing,HR generalista,Debrecen,2023-10-14,807007,7
+Erzsébet,Gulyás,Informatika,Marketinges,Debrecen,2022-02-05,773956,5
+Adrián,Horváth,Marketing,HR generalista,Szeged,2024-05-08,910069,0
+László,Varga,Marketing,Ügyfélszolgálatos,Szeged,2023-08-30,378418,2
+Erika,Budai,Marketing,HR generalista,Debrecen,2021-04-22,540556,0
+Bianka,Takács,Pénzügy,Marketinges,Debrecen,2023-07-29,571941,7
+Éva,Gál,Pénzügy,Könyvelő,Debrecen,2020-12-07,641773,0
+Zsuzsanna,Tóth,Pénzügy,Szoftverfejlesztő,Debrecen,2024-02-24,370324,3
+Ferenc,Szabó,Informatika,Könyvelő,Budapest,2023-01-03,421951,0
+Péter,Varga,Informatika,HR generalista,Budapest,2023-06-12,371369,5
+Csaba,Novák,HR,HR generalista,Debrecen,2023-10-22,469946,10
+Tibor,Kovács,Marketing,Rendszergazda,Debrecen,2020-05-21,736814,5
+Eszter,Nagy,Ügyfélszolgálat,Ügyfélszolgálatos,Szeged,2023-03-14,470096,5
+Tamás,Nagy,Pénzügy,Szoftverfejlesztő,Szeged,2020-07-25,376925,12
+Mónika,Barna,Ügyfélszolgálat,Rendszergazda,Debrecen,2021-12-01,765922,10
+Dóra,Fekete,Informatika,Ügyfélszolgálatos,Szeged,2022-04-02,604646,2
+Zoltán,Kis,Pénzügy,Rendszergazda,Szeged,2025-01-07,476935,0
+Teréz,Farkas,Pénzügy,Ügyfélszolgálatos,Debrecen,2022-05-27,738571,2
+Magdolna,Tóth,Ügyfélszolgálat,Rendszergazda,Debrecen,2021-03-12,363266,0
+Gabriella,Tóth,Marketing,Szoftverfejlesztő,Debrecen,2022-11-13,729781,7
+János,Nagy,HR,Marketinges,Budapest,2022-11-16,897091,12
+Katalin,Máté,Ügyfélszolgálat,Ügyfélszolgálatos,Debrecen,2023-06-01,837455,0
+Pál,Sipos,Ügyfélszolgálat,Könyvelő,Debrecen,2020-11-13,607420,2
+Éva,Vincze,Pénzügy,Marketinges,Budapest,2022-04-15,837282,0
+János,Balog,Pénzügy,Szoftverfejlesztő,Debrecen,2021-04-02,690802,5
+Viktória,Lakatos,Marketing,HR generalista,Debrecen,2020-07-27,620902,0
+Dávid,Molnár,Pénzügy,Ügyfélszolgálatos,Szeged,2023-05-17,639688,3
+József,Fehér,Informatika,Ügyfélszolgálatos,Budapest,2020-04-30,439771,10
+Alexandra,Veres,Marketing,Marketinges,Szeged,2021-02-12,601997,7
+Ákos,Kiss,Marketing,Marketinges,Budapest,2024-02-18,447573,12
+Ildikó,Németh,HR,Marketinges,Szeged,2024-08-29,605123,12

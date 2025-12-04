@@ -1,1 +1,0 @@
-insert into Denormaliz_lt_HR_adatok (first_name, last_name, department, job, location, hire_date, monthly_salary, absence_days) values (:first_name, :last_name, :department, :job, :location, :hire_date, :monthly_salary, :absence_days)
